@@ -1,0 +1,16 @@
+com.terminus.namespace.app-jetified-rendering-1.17.1-0 C:\Users\Артём\.gradle\caches\transforms-3\2063bf5dd94f69fa1d0f4017b5d37c19\transformed\jetified-rendering-1.17.1\res
+com.terminus.namespace.app-jetified-appcompat-resources-1.2.0-1 C:\Users\Артём\.gradle\caches\transforms-3\20c9d2d7cd758c6c34afab7f2d7b4a20\transformed\jetified-appcompat-resources-1.2.0\res
+com.terminus.namespace.app-jetified-core-1.15.0-2 C:\Users\Артём\.gradle\caches\transforms-3\5be0a03b2f4df891e5a61e86653624d9\transformed\jetified-core-1.15.0\res
+com.terminus.namespace.app-constraintlayout-2.1.4-3 C:\Users\Артём\.gradle\caches\transforms-3\69c806e0b49df55d7a894a010cc5bc05\transformed\constraintlayout-2.1.4\res
+com.terminus.namespace.app-core-1.3.2-4 C:\Users\Артём\.gradle\caches\transforms-3\7d4318ce4449fed3ea00e263562eba5e\transformed\core-1.3.2\res
+com.terminus.namespace.app-jetified-filament-android-1.17.1-5 C:\Users\Артём\.gradle\caches\transforms-3\8ad3f47e27f6bd574f42c29c4d3d01f9\transformed\jetified-filament-android-1.17.1\res
+com.terminus.namespace.app-appcompat-1.2.0-6 C:\Users\Артём\.gradle\caches\transforms-3\9a854d58a42290773197de38a3e22145\transformed\appcompat-1.2.0\res
+com.terminus.namespace.app-jetified-sceneform-ux-1.17.1-7 C:\Users\Артём\.gradle\caches\transforms-3\fa813993b875a99eac82dd2c0a32f42b\transformed\jetified-sceneform-ux-1.17.1\res
+com.terminus.namespace.app-pngs-8 C:\face\app\build\generated\res\pngs\debug
+com.terminus.namespace.app-resValues-9 C:\face\app\build\generated\res\resValues\debug
+com.terminus.namespace.app-rs-10 C:\face\app\build\generated\res\rs\debug
+com.terminus.namespace.app-packageDebugResources-11 C:\face\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.terminus.namespace.app-packageDebugResources-12 C:\face\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.terminus.namespace.app-merged_res-13 C:\face\app\build\intermediates\merged_res\debug
+com.terminus.namespace.app-debug-14 C:\face\app\src\debug\res
+com.terminus.namespace.app-main-15 C:\face\app\src\main\res
